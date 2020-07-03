@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787869169956",
+    "firebase_url": "https://want-some-coffee.firebaseio.com",
+    "project_id": "want-some-coffee",
+    "storage_bucket": "want-some-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787869169956:android:cbc32971028ec7c8f99bb1",
+        "android_client_info": {
+          "package_name": "com.example.want_some_coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787869169956-7akkrsq16kashgr449bnutp73rabgqjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICdVRKz5S-FAY4SD2FTAQMJlvHGSXxb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787869169956-7akkrsq16kashgr449bnutp73rabgqjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
